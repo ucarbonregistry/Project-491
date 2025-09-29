@@ -82,3 +82,63 @@ QTY: 19056 RoUs
 
 MP-01: 01/01/2014-31/12/2023
 _____________
+Serial Number: 0001-000001-000781-UCR-RoU-BR-491-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 781
+___________
+Serial Number: 0001-000782-001900-UCR-RoU-BR-491-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 1119
+__________
+Serial Number: 0001-001901-003129-UCR-RoU-BR-491-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 1229
+_____________
+Serial Number: 0001-003130-003971-UCR-RoU-BR-491-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 842
+___________
+Serial Number: 0001-003972-006826-UCR-RoU-BR-491-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 2855
+____________
+Serial Number: 0001-006827-007637-UCR-RoU-BR-491-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 811
+______________
+Serial Number: 0001-007638-011446-UCR-RoU-BR-491-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 3809
+_______________
+Serial Number: 0001-011447-013548-UCR-RoU-BR-491-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 2102
+____________
+Serial Number: 0001-013549-014760-UCR-RoU-BR-491-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 1212
+____________
+Serial Number: 0001-014761-019056-UCR-RoU-BR-491-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 4296
+_____________
